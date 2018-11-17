@@ -1,4 +1,4 @@
-# HSC2010__Pi
+# HDC2010__Pi
 ## Read temperature and humidity from an HDC2010 device - Designed for Raspberry Pi but should function fine for other SBCs
 
 Reference: [HDC2010 Datasheet](http://www.ti.com/lit/ds/symlink/hdc2010.pdf)
